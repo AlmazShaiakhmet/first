@@ -1,5 +1,5 @@
 "use strict";
-let startBtn = document.getElementById("start"),
+let startBtn = document.getElementById('start'),
     budgetValue = document.getElementsByClassName('budget-value')[0],
     dayBudgetValue = document.getElementsByClassName('daybudget-value')[0],
     levelValue = document.getElementsByClassName('level-value')[0],
